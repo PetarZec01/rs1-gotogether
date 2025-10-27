@@ -1,3 +1,5 @@
+#Go Togehter app
+
 **PROJECT DESCRIPTION**
 
 Our idea is to enable users to search for private rides/trips from one location to another and to create their own.
