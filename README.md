@@ -1,4 +1,4 @@
-#Go Togehter app
+# Go Togehter App
 
 **PROJECT DESCRIPTION**
 
